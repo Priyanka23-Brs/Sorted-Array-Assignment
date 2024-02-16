@@ -15,8 +15,8 @@ label {
  
 button {
     width: 15%;
-    color:darkred;
-    background-color:whtie;
+    color:white;
+    background-color: gray;
     font-size: 20px;
 }
 
