@@ -12,19 +12,11 @@ label {
     font-size: 20px;
     
 }
-.container {
-    width: 50%;
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 20px;
-     background-size: cover;
-    color:#ccc;
-    font-weight: 1500;
-    font-size: 15px;
-}
+ 
 button {
     width: 15%;
     color:darkred;
-    background-color:hotpink;
+    background-color:whtie;
     font-size: 20px;
 }
 
